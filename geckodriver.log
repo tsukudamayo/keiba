@@ -1,0 +1,843 @@
+1527398675681	geckodriver	INFO	geckodriver 0.20.1
+1527398675689	geckodriver	INFO	Listening on 127.0.0.1:53469
+1527398678739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.KGAIQXnvcQ6a"
+1527398682410	Marionette	INFO	Listening on port 53477
+1527398682890	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5980, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527398694245	geckodriver	INFO	geckodriver 0.20.1
+1527398694257	geckodriver	INFO	Listening on 127.0.0.1:53519
+1527398697288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.jEwhrvrgtNzO"
+1527398700403	Marionette	INFO	Listening on port 53527
+1527398700454	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12088, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527400296513	geckodriver	INFO	geckodriver 0.20.1
+1527400296537	geckodriver	INFO	Listening on 127.0.0.1:54453
+1527400299521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.K15cZ4allWXH"
+1527400303197	Marionette	INFO	Listening on port 54461
+1527400303664	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527400353907	geckodriver	INFO	geckodriver 0.20.1
+1527400353919	geckodriver	INFO	Listening on 127.0.0.1:54598
+1527400356910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.YrkDZGX86Lxd"
+1527400359782	Marionette	INFO	Listening on port 54606
+1527400360037	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527400433074	geckodriver	INFO	geckodriver 0.20.1
+1527400433086	geckodriver	INFO	Listening on 127.0.0.1:54893
+1527400436069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.uTF6GX7wobbE"
+1527400439499	Marionette	INFO	Listening on port 54901
+1527400439721	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527400545834	geckodriver	INFO	geckodriver 0.20.1
+1527400545850	geckodriver	INFO	Listening on 127.0.0.1:55179
+1527400548837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.de3LJfrm2iOP"
+1527400552098	Marionette	INFO	Listening on port 55187
+1527400552486	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527400596534	geckodriver	INFO	geckodriver 0.20.1
+1527400596546	geckodriver	INFO	Listening on 127.0.0.1:55213
+1527400599555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.JZXx9YXByHSN"
+1527400602247	Marionette	INFO	Listening on port 55221
+1527400602685	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527400672285	geckodriver	INFO	geckodriver 0.20.1
+1527400672305	geckodriver	INFO	Listening on 127.0.0.1:55510
+1527400675299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.h04lGhvoxu0t"
+1527400678667	Marionette	INFO	Listening on port 55518
+1527400678944	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tp://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 268: TypeError: this._builder is undefined
+[Parent 12256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527401526767	geckodriver	INFO	geckodriver 0.20.1
+1527401526786	geckodriver	INFO	Listening on 127.0.0.1:56802
+1527401529763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.fvnabIBu9pwH"
+1527401533390	Marionette	INFO	Listening on port 56810
+1527401533900	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://db.netkeiba.com/horse/2015100122/, line 4: ReferenceError: Criteo is not defined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+[Child 12708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+le to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527402019366	geckodriver	INFO	geckodriver 0.20.1
+1527402019381	geckodriver	INFO	Listening on 127.0.0.1:58004
+1527402022374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.Hy6UJb2N91dQ"
+1527402025870	Marionette	INFO	Listening on port 58012
+1527402026077	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527402045792	geckodriver	INFO	geckodriver 0.20.1
+1527402045820	geckodriver	INFO	Listening on 127.0.0.1:58082
+1527402048798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.CnwwkBKwbpwJ"
+1527402052230	Marionette	INFO	Listening on port 58091
+1527402052491	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527402522993	geckodriver	INFO	geckodriver 0.20.1
+1527402523013	geckodriver	INFO	Listening on 127.0.0.1:59137
+1527402525991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.qEpe3LWphlT1"
+1527402529077	Marionette	INFO	Listening on port 59145
+1527402529123	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527402574168	geckodriver	INFO	geckodriver 0.20.1
+1527402574184	geckodriver	INFO	Listening on 127.0.0.1:59408
+1527402577174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.0rx1GMvTBdkZ"
+1527402581150	Marionette	INFO	Listening on port 59416
+1527402581299	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+[Child 12332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12700, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/buil1527402984430	Marionette	INFO	Listening on port 60359
+1527402985236	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527403238538	geckodriver	INFO	geckodriver 0.20.1
+1527403238558	geckodriver	INFO	Listening on 127.0.0.1:60725
+1527403241578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.Qx5KW2Y7GAb6"
+1527403244890	Marionette	INFO	Listening on port 60734
+1527403245234	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527403661887	geckodriver	INFO	geckodriver 0.20.1
+1527403661895	geckodriver	INFO	Listening on 127.0.0.1:61030
+1527403664924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.bYFFLIthpYVY"
+1527403668209	Marionette	INFO	Listening on port 61038
+1527403668583	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13632, Gec1527403705483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.ikyGXZEq4MZ0"
+1527403708934	Marionette	INFO	Listening on port 61168
+1527403709112	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 14008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527403921976	geckodriver	INFO	geckodriver 0.20.1
+1527403921992	geckodriver	INFO	Listening on 127.0.0.1:61455
+1527403924982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.rDQlFtHMSXoL"
+1527403928206	Marionette	INFO	Listening on port 61463
+1527403928623	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527404003373	geckodriver	INFO	geckodriver 0.20.1
+1527404003393	geckodriver	INFO	Listening on 127.0.0.1:61717
+1527404006357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.eBmnR3AbD4fm"
+1527404009207	Marionette	INFO	Listening on port 61726
+1527404009466	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+1527404058767	geckodriver	INFO	geckodriver 0.20.1
+1527404058803	geckodriver	INFO	Listening on 127.0.0.1:61991
+1527404061783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.ZZa7CgSGw6XR"
+1527404065097	Marionette	INFO	Listening on port 61999
+1527404065485	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 11288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527404394358	geckodriver	INFO	geckodriver 0.20.1
+1527404394370	geckodriver	INFO	Listening on 127.0.0.1:63207
+1527404397394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile.c8lxEPBQXWTr"
+1527404400495	Marionette	INFO	Listening on port 63215
+1527404400527	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+JavaScript error: http://ads.pubmatic.com/AdServer/js/mshowad.js, line 1: TypeError: D.kadGdprConsent is undefined
+[Child 13072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\USER\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

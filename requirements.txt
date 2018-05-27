@@ -1,0 +1,7 @@
+numpy
+pandas
+ipython
+jupyter
+lxml
+beautifulsoup4
+selenium
