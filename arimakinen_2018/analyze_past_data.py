@@ -1,6 +1,8 @@
 import gc
 
+import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sns
 
 from preprocessing import (separate_diff, separate_ranking, separate_weight,
                            strings_to_sec)
@@ -50,12 +52,35 @@ def main():
     df['diff'] = df['馬体重'].apply(lambda x: separate_diff(x))
 
     del df['Unnamed: 0']
+    del df['馬体重']
     gc.collect()
 
     print(df.isnull().sum())
     print(df.head())
 
     df.to_csv('preprocessed_race_data.csv')
+    del df
+
+    gc.collect()
+
+    # analyze
+    df = pd.read_csv('preprocessed_race_data.csv')
+    df.columns = [
+        'index', 'result', 'geat_number', 'horse_number', 'horse_name',
+        'sex_old', 'handicap', 'jockey', 'last_3F', 'odds', 'oods_rank',
+        'horseman', 'owner', 'rank_0', 'rank_1', 'rank_2', 'rank_3', 'second',
+        'first_half', 'weight', 'diff'
+    ]
+
+    df_str = df.select_dtypes(include='object')
+    df_num = df.select_dtypes(include=['int64', 'float64'])
+
+    # correlation
+    df_num_corr = df_num.corr()
+    print(df_num_corr)
+    print('visualization')
+    sns.heatmap(df_num_corr, cmap='jet')
+    plt.show()
 
 
 if __name__ == '__main__':
