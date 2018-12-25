@@ -49,6 +49,7 @@ def main():
     df['weight'] = df['馬体重'].apply(lambda x: separate_weight(x))
     df['diff'] = df['馬体重'].apply(lambda x: separate_diff(x))
 
+    del df['Unnamed: 0']
     gc.collect()
 
     print(df.isnull().sum())
