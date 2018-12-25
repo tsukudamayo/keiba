@@ -2,7 +2,8 @@ import gc
 
 import pandas as pd
 
-from preprocessing import separate_ranking, strings_to_sec
+from preprocessing import (separate_diff, separate_ranking, separate_weight,
+                           strings_to_sec)
 
 
 def load_data(csv_file):
@@ -43,6 +44,10 @@ def main():
     # calculation "first_harf" seconds
     df['上り'] = df['上り'].astype(float)
     df['first_half'] = df['second'] - df['上り']
+
+    # separate weight and diff
+    df['weight'] = df['馬体重'].apply(lambda x: separate_weight(x))
+    df['diff'] = df['馬体重'].apply(lambda x: separate_diff(x))
 
     gc.collect()
 

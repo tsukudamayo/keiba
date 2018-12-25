@@ -14,6 +14,36 @@ def separate_ranking(ranking_strings, index):
     return convert_strings
 
 
+def separate_diff(weight_strings):
+    print(weight_strings)
+    convert_strings = weight_strings.split('(')
+    print('convert_strings')
+    print(convert_strings)
+    weight = convert_strings[0]
+    print('weight')
+    print(weight)
+    if convert_strings[1].find('+') >= 0:
+        print('+ exists')
+        diff = convert_strings[1].replace('+', '')
+        diff = diff.split(')')[0]
+        print('diff')
+        print(diff)
+    else:
+        print('not +')
+        diff = convert_strings[1].split(')')[0]
+        print('diff')
+        print(diff)
+
+    return diff
+
+
+def separate_weight(weight_strings):
+    convert_strings = weight_strings.split('(')
+    weight = convert_strings[0]
+
+    return weight
+
+
 def null_check(df):
     print(df.isnull().sum())
 
