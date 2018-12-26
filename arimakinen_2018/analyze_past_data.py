@@ -75,6 +75,9 @@ def main():
     df_str = df.select_dtypes(include='object')
     df_num = df.select_dtypes(include=['int64', 'float64'])
 
+    # describe
+    print(df_num.describe())
+
     # correlation
     df_num_corr = df_num.corr()
     print(df_num_corr)
@@ -82,6 +85,12 @@ def main():
     sns.heatmap(df_num_corr, cmap='jet')
     plt.show()
 
+    # boxplot
+    box_plot_var = [df_num[x] for x in df_num.columns]
+    plt.boxplot(box_plot_var)
+    plt.xticks(range(len(df_num.columns)), df_num.columns)
+    plt.show()
 
+        
 if __name__ == '__main__':
     main()
