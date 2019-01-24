@@ -2,8 +2,8 @@ import gc
 
 import matplotlib.pyplot as plt
 import pandas as pd
-from pandas.tools import plotting
 import seaborn as sns
+from pandas.tools import plotting
 
 from preprocessing import (separate_diff, separate_ranking, separate_weight,
                            strings_to_sec)
@@ -37,7 +37,12 @@ def main():
     # convert rank
     for i in range(4):
         columns_string = 'rank_' + str(i)
-        df[columns_string] = df['通過'].apply(lambda x: separate_ranking(x, i))
+        try:
+            df[columns_string] = df['通過'].apply(
+                lambda x: separate_ranking(x, i))
+        except IndexError:
+            print('rank has {} parameter : break'.format(i))
+            break
     del df['通過']
 
     # convert time to second
@@ -66,11 +71,12 @@ def main():
 
     # analyze
     df = pd.read_csv('preprocessed_race_data.csv')
+    # TODO rank_x needs to be generated with dynamic
     df.columns = [
         'index', 'result', 'geat_number', 'horse_number', 'horse_name',
         'sex_old', 'handicap', 'jockey', 'last_3F', 'odds', 'oods_rank',
-        'horseman', 'owner', 'rank_0', 'rank_1', 'rank_2', 'rank_3', 'second',
-        'first_half', 'weight', 'diff'
+        'horseman', 'owner', 'rank_0', 'rank_1', 'second', 'first_half',
+        'weight', 'diff'
     ]
 
     df_str = df.select_dtypes(include='object')
@@ -92,9 +98,9 @@ def main():
     plt.xticks(range(len(df_num.columns)), df_num.columns)
     plt.show()
 
-    plotting.scatter_matrix(df_num[df_num.columns], figsize=(15,15))
+    plotting.scatter_matrix(df_num[df_num.columns], figsize=(15, 15))
     plt.show()
 
-        
+
 if __name__ == '__main__':
     main()
