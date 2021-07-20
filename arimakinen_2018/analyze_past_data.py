@@ -2,7 +2,6 @@ import gc
 
 import matplotlib.pyplot as plt
 import pandas as pd
-from pandas.tools import plotting
 import seaborn as sns
 
 from preprocessing import (separate_diff, separate_ranking, separate_weight,
@@ -92,7 +91,7 @@ def main():
     plt.xticks(range(len(df_num.columns)), df_num.columns)
     plt.show()
 
-    plotting.scatter_matrix(df_num[df_num.columns], figsize=(15,15))
+    pd.plotting.scatter_matrix(df_num[df_num.columns], figsize=(15,15))
     plt.show()
 
         
