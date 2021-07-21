@@ -6,7 +6,7 @@ from analyze_past_data import load_data
 
 def csv_to_json(filepath: str):
     filename, ext = os.path.splitext(filepath)
-    data = json.loads(load_data(filepath).to_json())
+    data = json.loads(load_data(filepath).to_json(orient="records"))
     with codecs.open(filename + ".json", "w", "utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=False)
 
